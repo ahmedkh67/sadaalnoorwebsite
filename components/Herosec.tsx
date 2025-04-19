@@ -12,7 +12,7 @@ const Herosec = () => {
         
        
     </div>
-        <motion.div initial={{translateY: 30, opacity: 0}} animate={{translateY: 0, opacity: 100}} transition={{duration: 0.8, ease: easeInOut}} className="flex justify-center items-center flex-col w-full h-[600px] absolute top-0 left-0">
+        <motion.div initial={{translateY: 30, opacity: 0}} animate={{translateY: 0, opacity: 100}} transition={{duration: 0.8, ease: easeInOut}} className="flex justify-center items-center flex-col w-full h-[600px] absolute top-0 mt-20 md:mt-35 left-0">
             <h1 className='md:text-lg text-lg font-sans font-bold text-center text-white md:my-12 my-8  w-1/2'>
             صدى النور | لوازم الأفراح و المناسبات 
             </h1>
