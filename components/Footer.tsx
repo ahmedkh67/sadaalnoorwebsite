@@ -19,19 +19,19 @@ const Footer = () => {
                 حساباتنا
             </h1>
             <div className="flex justify-end items-center mt-3">
-                <div className="flex w-8 h-8 m-0.5 rounded-full border-1 border-[#005053] border-solid justify-center items-center ">
+                <div className="flex w-8 h-8 m-0.5 rounded-full border- border-[#005053] border-solid justify-center items-center ">
                     <Link href={ "https://www.instagram.com/sada.alnoor7" } >
                         <Image src={insta} width={24} height={20} alt={'social icon media'} />
                     </Link>
                 </div>
-                <div className="flex w-8 h-8 m-0.5 rounded-full border-1 border-[#005053] border-solid justify-center items-center ">
+                <div className="flex w-8 h-8 m-0.5 rounded-full border- border-[#005053] border-solid justify-center items-center ">
                     <Link href={"https://www.tiktok.com/@sada.alnoor"} >
                         <Image src={tiktok} width={23} height={20} alt={'social icon media'} />
                     </Link>
                 </div>
-                <div className="flex w-8 h-8 m-0.5 rounded-full border-1 border-[#005053] border-solid justify-center items-center ">
+                <div className="flex w-8 h-8 m-0.5 rounded-full border- border-[#005053] border-solid justify-center items-center ">
                     <Link href={'https://wa.me/+966590029919'}>
-                        <Image src={Whats} width={30} height={20} alt={'social icon media'} />
+                        <Image src={Whats} width={35} height={20} alt={'social icon media'} />
                     </Link>
                 </div>
             </div>
