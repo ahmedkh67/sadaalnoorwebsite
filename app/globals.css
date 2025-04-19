@@ -124,187 +124,105 @@ body {
   }
 
 
-  .trainimg1 {
-    background-image: url("/trainimg1.jpeg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-color: white;
-  }
-
-  .trainimg2 {
-    background-image: url("/trainimg2.jpeg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-color: white;
-  }
-
-  .trainimg3 {
-    background-image: url("/trainimg3.jpeg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-color: white;
-  }
-
-  .trainimg4 {
-    background-image: url("/trainimg4.jpeg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-color: white;
-  }
-
-  .trainimg5 {
-    background-image: url("/trainimg5.jpeg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-color: white;
-  }
-
-  .trainimg6 {
-    background-image: url("/trainimg6.webp");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-color: transparent;
-  }
-
-  .trainimg7 {
-    background-image: url("/trainimg7.jpeg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-color: white;
-  }
-
-
-
-  .elctrcar1 {
-    background-image: url("/elctrcar1.jpeg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-color: white;
-  }
-
-  .elctrcar2 {
-    background-image: url("/elctrcar2.jpeg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-color: white;
-  }
-
-
-  .elctrcar3 {
-    background-image: url("/elctrcar3.webp");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-color: transparent;
-  }
-
-
-  .elctrcar4 {
-    background-image: url("/elctrcar4.jpeg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-color: white;
-  }
-
-
-  .elctrcar5 {
-    background-image: url("/elctrcar5.jpeg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-color: white;
-  }
-
-
-
-  .cart1 {
-    background-image: url("/cart1.jpeg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-color: white;
-  }
-
-  .cart2 {
-    background-image: url("/cart2.jpeg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-color: white;
-  }
-
-  .cart3 {
-    background-image: url("/cart3.jpeg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-color: white;
-  }
-
   
-  .cart4 {
-    background-image: url("/cart4.jpeg");
+  .sound1 {
+    background-image: url("/sound1.jpeg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
+    background-color: white;
+  }
+  
+  .sound2 {
+    background-image: url("/sound2.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+  }
+  
+  .sound3 {
+    background-image: url("/sound3.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+  }
+  
+  .sound4 {
+    background-image: url("/sound4.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+  }
+  
+  .sound5 {
+    background-image: url("/sound5.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+  }
+  
+  .decor1 {
+    background-image: url("/decor1.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     background-color: white;
   }
 
-  .cart5 {
-    background-image: url("/cart5.jpeg");
+  .decor2 {
+    background-image: url("/decor2.jpeg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-color: white;
   }
 
-  .cart6 {
-    background-image: url("/cart6.jpeg");
+  .decor3 {
+    background-image: url("/decor3.jpeg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-color: white;
   }
 
-  .cart7 {
-    background-image: url("/cart7.jpeg");
+  .decor4 {
+    background-image: url("/decor4.jpeg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-color: white;
   }
 
-  .cart8 {
-    background-image: url("/cart8.jpeg");
+  .decor5 {
+    background-image: url("/decor5.jpeg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-color: white;
   }
 
-  .cart9 {
-    background-image: url("/cart9.webp");
+  .decor6 {
+    background-image: url("/decor6.jpeg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
-    background-color: transparent;
+    background-size: cover;
+    background-color: white;
   }
 
+  .decor7 {
+    background-image: url("/decor7.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+  }
 
-
-
-  .carto {
-    background-image: url("/cart1.jpeg");
+  .decor8 {
+    background-image: url("/decor8.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -312,319 +230,171 @@ body {
   }
 
 
-  .manag1 {
-    background-image: url("/manag1.jpeg");
+  .luxury1 {
+    background-image: url("/luxury1.jpeg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-color: white;
   }
 
-  .manag2 {
-    background-image: url("/manag2.jpeg");
+  .luxury2 {
+    background-image: url("/luxury2.jpeg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-color: white;
   }
 
-
-  .manag3 {
-    background-image: url("/manag3.jpeg");
+  .luxury3 {
+    background-image: url("/luxury3.jpeg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-color: white;
   }
 
-
-  .manag4 {
-    background-image: url("/manag4.jpeg");
+  .luxury4 {
+    background-image: url("/luxury4.jpeg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
-    background-color: white;
-  }
-
-
-  .manag5 {
-    background-image: url("/manag5.jpeg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-color: white;
   }
 
 
-
-  .ballon1 {
-    background-image: url("/ballon1.webp");
+  .special1 {
+    background-image: url("/special1.jpeg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
-    background-color: transparent;
-  }
-
-
-  .ballon2 {
-    background-image: url("/ballon2.jpeg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-color: white;
   }
 
-
-  .ballon3 {
-    background-image: url("/ballon3.jpeg");
+  .special2 {
+    background-image: url("/special2.jpeg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-color: white;
   }
 
-
-  .ballon4 {
-    background-image: url("/ballon4.jpeg");
+  .special3 {
+    background-image: url("/special3.jpeg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-color: white;
   }
 
-
-  .ballon5 {
-    background-image: url("/ballon5.jpeg");
+  .special4 {
+    background-image: url("/special4.jpeg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-color: white;
   }
 
-
-  .ballon6 {
-    background-image: url("/ballon6.jpeg");
+  .special5 {
+    background-image: url("/special5.jpeg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-color: white;
   }
 
-
-  .ballon7 {
-    background-image: url("/ballon7.jpeg");
+  .special6 {
+    background-image: url("/special6.jpeg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-color: white;
   }
 
-
-  .ballon8 {
-    background-image: url("/ballon8.jpeg");
+  .special7 {
+    background-image: url("/special7.jpeg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-color: white;
   }
 
-
-
-
-  .bg1 {
-    background-image: url("/smartcartpng.webp");
+  .special8 {
+    background-image: url("/special8.jpeg");
     background-position: center;
-    background-size: contain;
     background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
   }
-
-
-
 
 
 
 
   .image1 {
-    background-image: url("/image1.jpeg");
+    background-image: url("/sound1.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
   }
   
   .image2 {
-    background-image: url("/image2.jpeg");
+    background-image: url("/decor2.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
   }
   
   .image3 {
-    background-image: url("/image3.jpeg");
+    background-image: url("/luxury3.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
   }
   
   .image4 {
-    background-image: url("/image4.jpeg");
+    background-image: url("/special4.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
   }
   
   .image5 {
-    background-image: url("/image5.jpeg");
+    background-image: url("/sound2.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
   }
   
   .image6 {
-    background-image: url("/image6.jpeg");
+    background-image: url("/decor2.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
   }
   
   .image7 {
-    background-image: url("/image7.jpeg");
+    background-image: url("/decor3.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
   }
   
   .image8 {
-    background-image: url("/image8.jpeg");
+    background-image: url("/sound4.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
   }
   
   .image9 {
-    background-image: url("/image9.jpeg");
+    background-image: url("/special5.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
   }
   
   .image10 {
-    background-image: url("/image10.jpeg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  
-  .image1 {
-    background-image: url("/image1.jpeg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  
-  .image11 {
-    background-image: url("/image11.jpeg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  
-  .image12 {
-    background-image: url("/image12.jpeg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  
-  .image13 {
-    background-image: url("/image13.jpeg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  
-  .image14 {
-    background-image: url("/image14.jpeg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  
-  .image15 {
-    background-image: url("/image15.jpeg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  
-
-
-  
-  .slide11 {
-    background-image: url("/slide11.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  
-  
-  .slide22 {
-    background-image: url("/slide22.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  
-  
-  .slide33 {
-    background-image: url("/slide33.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  
-  
-  .slide44 {
-    background-image: url("/slide44.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  
-  
-  .slide55 {
-    background-image: url("/slide55.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  
-  
-  .slide66 {
-    background-image: url("/slide66.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  
-  
-  .slide77 {
-    background-image: url("/slide77.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  
-  
-  .slide88 {
-    background-image: url("/slide88.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  
-  
-  .slide99 {
-    background-image: url("/slide99.jpg");
+    background-image: url("/special6.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -803,16 +573,6 @@ body {
   }100% {
     transform: scale(100%);
   }
-}
-
-
-.image1, .image2, .image3, .image4, 
-.image5, .image6, .image7, .image8, .image9, .image10, .image11 , .image12, .slide11,.slide22,.slide33,
-.slide44,.slide55,.slide66,.slide77,.slide88,.slide99 {
-  background-image: url("/CloseIcon.svg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 

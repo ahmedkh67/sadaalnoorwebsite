@@ -21,8 +21,8 @@ const page = () => {
 
     <div className="flex md:flex-row flex-col bg-white justify-center items-center px-4 pt-10 ">       
     <ServiceCard title={' تأجير أدوات الزينة و الديكور '} dis={'  من الطاولات والكراسي , الى الاضاءة والزينة  '} linko={"/Decorativepage"} src={'decorbg'} />
-    <ServiceCard title={' تأجير أدوات الصوت و الاضاءة  '} dis={'  تأجير معدات الصوت والاضاءة  '} linko={"/Lightsoundpage"} src={'soundbg'} />
-    <ServiceCard title={' تأجير الأواني و القطع الفاخرة  '} dis={'  تأثيث الطاولات بأواني مميزة و انيقة  '} linko={"/Luxurypage"} src={'luxurybg'} />
+    <ServiceCard title={' تأجير أدوات الصوت و الاضاءة  '} dis={'  تأجير معدات الصوت والاضاءة  '} linko={"/Lightssoundpage"} src={'soundbg'} />
+    <ServiceCard title={' تأجير الأواني و القطع الفاخرة  '} dis={'  تأثيث الطاولات بأواني مميزة و انيقة  '} linko={"/Luxutypage"} src={'luxurybg'} />
     </div>
 
     <div className="flex md:flex-row flex-col bg-white justify-center items-center px-4 ">       

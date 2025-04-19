@@ -38,32 +38,25 @@ const page = () => {
 
 
             <div className="flex md:flex-row flex-col bg-blue-400  justify-center items-center px-4 pt-10 flex-wrap">       
-                <div className="flex flex-col bg-[#ededed] p-8 w-full md:w-90 h-90 md:m-4 my-3 justify-center items-end cart1 "> 
+                <div className="flex flex-col bg-[#ededed] p-8 w-full md:w-90 h-90 md:m-4 my-3 justify-center items-end luxury1 "> 
 
                     
                 </div>
-                <div className="flex flex-col bg-[#ededed] p-8 w-full md:w-90 h-90 md:m-4 my-3 justify-center items-end cart2"> 
+                <div className="flex flex-col bg-[#ededed] p-8 w-full md:w-90 h-90 md:m-4 my-3 justify-center items-end luxury2"> 
 
                     
                 </div>
-                <div className="flex flex-col bg-[#ededed] p-8 w-full md:w-90 h-90 md:m-4 my-3 justify-center items-end cart3"> 
+                <div className="flex flex-col bg-[#ededed] p-8 w-full md:w-90 h-90 md:m-4 my-3 justify-center items-end luxury3"> 
 
                     
                 </div>
-                <div className="flex flex-col bg-[#ededed] p-8 w-full md:w-90 h-90 md:m-4 my-3 justify-center items-end cart4"> 
+                <div className="flex flex-col bg-[#ededed] p-8 w-full md:w-90 h-90 md:m-4 my-3 justify-center items-end luxury4"> 
 
                     
                 </div>
                
                
-                <div className="flex flex-col bg-[#ededed] p-8 w-full md:w-90 h-90 md:m-4 my-3 justify-center items-end cart8"> 
-
-                    
-                </div>
-                <div className="flex flex-col bg-[#ededed] p-8 w-full md:w-90 h-90 md:m-4 my-3 justify-center items-end cart9"> 
-
-                    
-                </div>
+                
                 
             </div>
 
