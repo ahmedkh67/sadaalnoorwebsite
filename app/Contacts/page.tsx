@@ -2,10 +2,10 @@
 
 import React from 'react'
 import Image from 'next/image'
-import Email from '@/public/gmail.svg'
 import Location from '@/public/location.svg'
 import Phone from '@/public/Whatsapp Icon.svg'
 import { useState } from 'react'
+import phone from '@/public/phone.svg'
 
 
 const Page = () => {
@@ -65,14 +65,14 @@ const Page = () => {
 
                 <div className="flex flex-row-reverse justify-end items-center p-4 w-full md:w-110 bg-yellow- px-10 md:px-5 md:my-3 ">
                     <div className="flex flex-row-reverse w-1/6 ml-7 ">
-                        <Image src={Email} alt={''} width={60} height={50} />
+                        <Image src={phone} alt={''} width={45} height={50} />
                     </div>
                     <div className="flex w-full flex-col justify-end items-end">
                         <h1 className='text-md text-white font-bold font-sans text-end'>
-                            البريد الالكتروني
+                            الهاتف
                         </h1>
                         <h1 className='text-md text-white font-bold font-sans text-end'>
-                            @gmail.com
+                            059 002 9919
                         </h1>
                     </div>
                 </div>
@@ -83,10 +83,10 @@ const Page = () => {
                     </div>
                     <div className="flex w-full flex-col justify-end items-end">
                         <h1 className='text-md text-white font-bold font-sans text-end'>
-                            الهاتف
+                            واتساب
                         </h1>
                         <h1 className='text-md text-white font-bold font-sans text-end'>
-                            059 002 9919
+                            +966 59 002 9919
                         </h1>
                     </div>
                 </div>

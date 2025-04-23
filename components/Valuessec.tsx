@@ -37,4 +37,5 @@ function Valuessec () {
   )
 }
 
-export default Valuessec
+
+export default Valuessec ;

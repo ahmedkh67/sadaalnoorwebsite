@@ -18,14 +18,19 @@ const page = () => {
             </div>
         </div>
         <div className="flex md:flex-row flex-col-reverse bg-blue-400 flex-wrap justify-evenly items-center  w-full py-20 ">
-            <GalleryCell src={'image1'} />
-            <GalleryCell src={'image2'} />
-            <GalleryCell src={'image3'} />
-            <GalleryCell src={'image4'} />
-            <GalleryCell src={'image5'} />
-            <GalleryCell src={'image6'} />
-            <GalleryCell src={'image7'} />
-            <GalleryCell src={'image8'} />
+            <GalleryCell src={'special1'} />
+            <GalleryCell src={'special2'} />
+            <GalleryCell src={'decor3'} />
+            <GalleryCell src={'decor4'} />
+            <GalleryCell src={'special5'} />
+            <GalleryCell src={'special7'} />
+            <GalleryCell src={'decor1'} />
+            <GalleryCell src={'decor2'} />
+            <GalleryCell src={'decor4'} />
+            <GalleryCell src={'decor5'} />
+            <GalleryCell src={'decor6'} />
+            <GalleryCell src={'decor7'} />
+            <GalleryCell src={'decor8'} />
 
         </div>
    </>

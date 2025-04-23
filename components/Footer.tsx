@@ -42,23 +42,22 @@ const Footer = () => {
             <h1 className='text-2xl text-end font-bold font-sans text-[#000000]'>
                 روابط سريعة
             </h1>
-            <ul className='flex justify-end items-center'>
-                <Link href="./">
+            <ul className='flex justify-end items-end flex-col'>
+                
 
-                    <li className='text-md text-end font-bold font-sans mt-3'>
+                    <Link href={'./'}> <li className='text-md text-end font-bold font-sans mt-3'>
                         الصفحة الرئيسية
-                    </li>
-                    <li className='text-md text-end font-bold font-sans mt-3'>
+                    </li> </Link>
+                    <Link href={'/Servicespage'}> <li className='text-md text-end font-bold font-sans mt-3'>
                         خدماتنا
-                    </li>
-                    <li className='text-md text-end font-bold font-sans mt-3'>
+                    </li> </Link>
+                    <Link href={'/Projectspage'}> <li className='text-md text-end font-bold font-sans mt-3'>
                         أعمالنا
-                    </li>
-                    <li className='text-md text-end font-bold font-sans mt-3'>
+                    </li> </Link>
+                    <Link href={'/Contacts'}> <li className='text-md text-end font-bold font-sans mt-3'>
                         تواصل معنا
-                    </li>
+                    </li> </Link>
 
-                </Link>
             </ul>
         </div>
 

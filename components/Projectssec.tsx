@@ -43,14 +43,13 @@ const Projectssec = () => {
                 spaceBetween={100}
                  className='flex justify-center items-center ' >
 
-                    <SwiperSlide><GalleryCell src={'image1'} /></SwiperSlide>
-                    <SwiperSlide><GalleryCell src={'image2'} /></SwiperSlide>
-                    <SwiperSlide><GalleryCell src={'image3'} /></SwiperSlide>
-                    <SwiperSlide><GalleryCell src={'image4'} /></SwiperSlide>
-                    <SwiperSlide><GalleryCell src={'image5'} /></SwiperSlide>
-                    <SwiperSlide><GalleryCell src={'image6'} /></SwiperSlide>
-                    <SwiperSlide><GalleryCell src={'image8'} /></SwiperSlide>
-                    <SwiperSlide><GalleryCell src={'image9'} /></SwiperSlide>
+                      <SwiperSlide><GalleryCell src={'special5'} /></SwiperSlide>
+                      <SwiperSlide><GalleryCell src={'special7'} /></SwiperSlide>
+                      <SwiperSlide><GalleryCell src={'decor1'} /></SwiperSlide>
+                      <SwiperSlide><GalleryCell src={'decor2'} /></SwiperSlide>
+                      <SwiperSlide><GalleryCell src={'decor4'} /></SwiperSlide>
+                      <SwiperSlide><GalleryCell src={'decor5'} /></SwiperSlide>
+                    
 
                  </Swiper>
         
