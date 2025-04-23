@@ -10,6 +10,7 @@ import Whatsicon from "./Whatsicon";
 import ServiceCard from "./ServiceCard";
 import Projectssec from "./Projectssec";
 import GalleryCell from "./GalleryCell";
+import Loadingcomp from "./Loadingcomp";
 
 
 export {
@@ -25,5 +26,6 @@ export {
     ServiceCard, 
     Projectssec ,    
     GalleryCell,
+    Loadingcomp, 
     
 }

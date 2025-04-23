@@ -10,7 +10,7 @@ type Valueparams = {
 function Value({title, dis, src}: Valueparams ) {
   return (
     <>
-    <div className="flex flex-row-reverse bg-[#ededed] p-4 w-full md:w-90 h-36 m-4 justify-end items-start ">
+    <div className="flex flex-row-reverse bg-[#ededed] p-4 w-full md:w-90 h-36 m-4 justify-end items-start transition-[0.2] hover:-translate-x-2">
         <Image className="flex w-1/7 justify-end items-start h-full" src={src} alt={'icon values'} />
         
         <div className="flex flex-col justify-center items-end pr-2">
