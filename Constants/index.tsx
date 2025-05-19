@@ -8,6 +8,10 @@ export const Navlist = [
         link: "/Servicespage"
     },
     {
+        title: " عروضنا ",
+        link: "/Packagespage"
+    },
+    {
         title: " أعمالنا ",
         link: "/Projectspage"
     },

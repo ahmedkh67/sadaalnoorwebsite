@@ -11,6 +11,7 @@ import ServiceCard from "./ServiceCard";
 import Projectssec from "./Projectssec";
 import GalleryCell from "./GalleryCell";
 import Loadingcomp from "./Loadingcomp";
+import Packages from "./Packages";
 
 
 export {
@@ -27,5 +28,7 @@ export {
     Projectssec ,    
     GalleryCell,
     Loadingcomp, 
+    Packages ,
+    
     
 }

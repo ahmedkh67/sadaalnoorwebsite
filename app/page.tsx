@@ -1,5 +1,5 @@
 "use client "
-import { Aboutsec, Herosec, Loadingcomp, Numsec, Projectssec, Valuessec } from "@/components";
+import { Aboutsec, Herosec, Loadingcomp, Numsec, Packages, Projectssec, Valuessec } from "@/components";
 
 
 export default function Home() {
@@ -8,6 +8,7 @@ export default function Home() {
     <Herosec />
     <Aboutsec /> 
     <Valuessec />
+    <Packages />
     <Projectssec />
     <Numsec />
     <Loadingcomp />
@@ -15,3 +16,4 @@ export default function Home() {
     </>
   );
 }
+

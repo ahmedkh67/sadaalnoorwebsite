@@ -37,7 +37,7 @@ body {
 
   }
   .NavlistContainer {
-    @apply md:w-1/4 w-full md:flex hidden flex-row-reverse justify-between items-center text-black ;
+    @apply md:w-1/3 w-full md:flex hidden flex-row-reverse justify-between items-center text-black ;
   }
 
   .Navlist-li {

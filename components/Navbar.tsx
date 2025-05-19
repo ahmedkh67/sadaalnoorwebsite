@@ -61,6 +61,13 @@ const Navbar = () => {
               </h1>
             </div>
           </Link>
+          <Link href={'/Packagespage'} className='w-full' onClick={() => {setopen(!open)}} >
+            <div className="flex w-full py-1 justify-end ">
+              <h1 className='text-xl text-end my-2 text-black font-sans' >
+              عروضنا
+              </h1>
+            </div>
+          </Link>
           <Link href={'/Projectspage'} className='w-full' onClick={() => {setopen(!open)}} >
             <div className="flex w-full py-1 justify-end ">
               <h1 className='text-xl text-end my-2 text-black font-sans' >
