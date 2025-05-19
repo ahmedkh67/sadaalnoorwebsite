@@ -8,7 +8,6 @@ import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 import Link from 'next/link';
-import { GalleryCell } from '.';
 import Image from 'next/image';
 
 
