@@ -617,3 +617,64 @@ body {
     background-color: white;
 }
 
+
+
+
+
+
+.packages1 { 
+    background-image: url("/packages1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+}
+
+.packages2 { 
+    background-image: url("/packages2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+}
+
+.packages3 { 
+    background-image: url("/packages3.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+}
+
+.packages4 { 
+    background-image: url("/packages4.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+}
+
+.packages5 { 
+    background-image: url("/packages5.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+}
+
+.packages6 { 
+    background-image: url("/packages6.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+}
+
+.packages7 { 
+    background-image: url("/packages7.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+}
+

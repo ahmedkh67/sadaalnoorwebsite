@@ -1,6 +1,8 @@
 
 import { GalleryCell } from '@/components'
 import React from 'react'
+import Image from 'next/image'
+import Link from 'next/link'
 
 
 const page = () => {
@@ -18,21 +20,16 @@ const page = () => {
             </div>
         </div>
         <div className="flex md:flex-row flex-col-reverse bg-blue-400 flex-wrap justify-evenly items-center  w-full py-20 ">
-            <GalleryCell src={'special1'} />
-            <GalleryCell src={'special2'} />
-            <GalleryCell src={'decor3'} />
-            <GalleryCell src={'decor4'} />
-            <GalleryCell src={'special5'} />
-            <GalleryCell src={'special7'} />
-            <GalleryCell src={'decor1'} />
-            <GalleryCell src={'decor2'} />
-            <GalleryCell src={'decor4'} />
-            <GalleryCell src={'decor5'} />
-            <GalleryCell src={'decor6'} />
-            <GalleryCell src={'decor7'} />
-            <GalleryCell src={'decor8'} />
 
+            <Link href={'https://wa.me/+966590029919'}><Image src={'/packages1.jpg'} alt='sdwd' width={300} height={400} className='m-3 ' /></Link>
+            <Link href={'https://wa.me/+966590029919'}><Image src={'/packages2.jpg'} alt='sdwd' width={300} height={400} className='m-3 ' /></Link>
+            <Link href={'https://wa.me/+966590029919'}><Image src={'/packages3.jpg'} alt='sdwd' width={300} height={400} className='m-3 ' /></Link>
+            <Link href={'https://wa.me/+966590029919'}><Image src={'/packages4.jpg'} alt='sdwd' width={300} height={400} className='m-3 ' /></Link>
+            <Link href={'https://wa.me/+966590029919'}><Image src={'/packages5.jpg'} alt='sdwd' width={300} height={400} className='m-3 ' /></Link>
+            <Link href={'https://wa.me/+966590029919'}><Image src={'/packages6.jpg'} alt='sdwd' width={300} height={400} className='m-3 ' /></Link>
+            <Link href={'https://wa.me/+966590029919'}><Image src={'/packages7.jpg'} alt='sdwd' width={300} height={400} className='m-3 ' /></Link>
         </div>
+        
    </>
   )
 }

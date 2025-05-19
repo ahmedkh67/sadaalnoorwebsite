@@ -12,4 +12,4 @@ function GalleryCell({src}: GallerycellTypes){
   )
 }
 
-export default GalleryCell
+export default GalleryCell 

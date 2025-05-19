@@ -9,6 +9,7 @@ import "swiper/css/navigation";
 import "swiper/css/pagination";
 import Link from 'next/link';
 import { GalleryCell } from '.';
+import Image from 'next/image';
 
 
 
@@ -43,12 +44,13 @@ const Packages = () => {
                 spaceBetween={100}
                  className='flex justify-center items-center ' >
 
-                      <SwiperSlide><GalleryCell src={'special5'} /></SwiperSlide>
-                      <SwiperSlide><GalleryCell src={'special7'} /></SwiperSlide>
-                      <SwiperSlide><GalleryCell src={'decor1'} /></SwiperSlide>
-                      <SwiperSlide><GalleryCell src={'decor2'} /></SwiperSlide>
-                      <SwiperSlide><GalleryCell src={'decor4'} /></SwiperSlide>
-                      <SwiperSlide><GalleryCell src={'decor5'} /></SwiperSlide>
+                      <SwiperSlide><Image src={'/packages1.jpg'} alt='sdwd' width={300} height={400} className='m-3 '/></SwiperSlide>
+                      <SwiperSlide><Image src={'/packages2.jpg'} alt='sdwd' width={300} height={400} className='m-3 '/></SwiperSlide>
+                      <SwiperSlide><Image src={'/packages3.jpg'} alt='sdwd' width={300} height={400} className='m-3 '/></SwiperSlide>
+                      <SwiperSlide><Image src={'/packages4.jpg'} alt='sdwd' width={300} height={400} className='m-3 '/></SwiperSlide>
+                      <SwiperSlide><Image src={'/packages5.jpg'} alt='sdwd' width={300} height={400} className='m-3 '/></SwiperSlide>
+                      
+                      
                     
 
                  </Swiper>
